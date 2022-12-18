@@ -6,7 +6,7 @@ int main()
 
 	int number,line,column,i,j;
 	printf("Enter the number of lines and columns for Square Matrix: ");
-	printf("\n-----Matrix 1-----");
+	printf("\n-----Matrix 1-----\n");
 	scanf("%d",&number);
 	column=number;
 	line=number;
